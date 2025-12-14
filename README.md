@@ -2,5 +2,5 @@
   <img src="pargue.jpeg" width="100%" />
 
   <h1> Hi there, I'm Neval! 👋 </h1>
-  <p> Masukkan deskripsi singkat atau kata-kata motivasi di sini </p>
+  <p> 君の膵臓をたべたい、やはり俺の青春ラブコムは間違っている </p>
 </div>
