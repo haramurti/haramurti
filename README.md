@@ -1,10 +1,7 @@
 
-  <img src="Screenshot 2026-03-03 at 01.18.57.png" width="40%" />
+  <img src="Screenshot 2026-03-03 at 01.18.57.png" width="20%" />
 
   <h2> Hi there, I'm Neval! 👋 </h2>
-  <p> 君の膵臓をたべたい、やはり俺の青春ラブコムは間違っている </p>
-
-
 
 🧙🏻 My blog: https://haramurti.github.io/autoplantsitharaki.github.io/
 
