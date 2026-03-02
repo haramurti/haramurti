@@ -1,6 +1,3 @@
-
-  <img src="Screenshot 2026-03-03 at 01.18.57.png" width="20%" />
-
   <h2> Hi there, I'm Neval! 👋 </h2>
 
 🧙🏻 My blog: https://haramurti.github.io/autoplantsitharaki.github.io/
