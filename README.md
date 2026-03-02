@@ -1,5 +1,5 @@
 
-  <img src="nagasaki-itinerary-header-image.jpg" width="10%" />
+  <img src="nagasaki-itinerary-header-image.jpg" width="50%" />
 
   <h1> Hi there, I'm Neval! 👋 </h1>
   <p> 君の膵臓をたべたい、やはり俺の青春ラブコムは間違っている </p>
