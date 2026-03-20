@@ -2,4 +2,4 @@
 
  - 🧙🏻 My Project: https://haramurti.github.io/autoplantsitharaki.github.io/
 
- - 👞 My Blog ://outdoor-hedi-casio-57ac17f4.koyeb.app/
+ - 👞 My Blog :outdoor-hedi-casio-57ac17f4.koyeb.app/
