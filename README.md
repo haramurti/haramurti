@@ -1,6 +1,7 @@
-  <h2> Hi there, I'm Neval!</h2>
-  <h2> 原神 知识之树，根植于人心之中 </h2>
+### Hi there 👋
 
- - 🧙🏻 My Project: https://haramurti.github.io/autoplantsitharaki.github.io/
+- 🍱 My blog: https://mate-blog.bccdev.id
+- ✉️ My Email: `echo "emh1amluZ2RpMTk5OEBnbWFpbC5jb20=" | base64 -d`
 
- - 👞 My Blog : https://mate-blog.bccdev.id
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
